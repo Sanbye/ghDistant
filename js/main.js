@@ -1,4 +1,4 @@
-const HELLO_WORLD= "Hello world!"
+const HELLO_WORLD= "Hello world from local"
 
 const title = document.querySelector("h1");
 const bouton = document.querySelector("button");
